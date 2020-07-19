@@ -4,7 +4,7 @@
 
 This is the code corresponding to our CVPR ISIC 2020 paper. If you use our code, please cite our paper: 
 
-Kumar Abhishek, Ghassan Hamarneh, Mark S. Drew, "[Illumination-based Transformations Improve Skin Lesion Segmentation in Dermoscopic Images](https://arxiv.org/abs/2003.10111)", The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) ISIC Skin Image Analysis Workshop, 2020.
+Kumar Abhishek, Ghassan Hamarneh, Mark S. Drew, "[Illumination-based Transformations Improve Skin Lesion Segmentation in Dermoscopic Images](https://openaccess.thecvf.com/content_CVPRW_2020/html/w42/Abhishek_Illumination-Based_Transformations_Improve_Skin_Lesion_Segmentation_in_Dermoscopic_Images_CVPRW_2020_paper.html)", The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) ISIC Skin Image Analysis Workshop, 2020.
 
 The corresponding bibtex entry is:
 
